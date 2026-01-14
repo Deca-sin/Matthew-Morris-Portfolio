@@ -46,7 +46,7 @@ These smaller projects demonstrate fundamental computer science concepts and C++
 
 * [Brick Breaker Game](https://github.com/FullSailGameStudies/bricksbreaker-chris-MathiasVer2055.git)
 
-* [Calculator Project]([https://github.com/FullSailGameStudies/calculator-chris-MathiasVer2055.git])
+* [Calculator Project]([https://github.com/FullSailGameStudies/calculator-chris-MathiasVer2055.git)
 
 ## 🎯 Soft Skills & Leadership Experience
 
