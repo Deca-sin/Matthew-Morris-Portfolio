@@ -44,7 +44,7 @@ These smaller projects demonstrate fundamental computer science concepts and C++
 
 * [Conway's Game of Life](https://github.com/FullSailGameStudies/conway-s-game-of-life-03-24-Deca-sin.git)
 
-* [Brick Breaker Game](https://github.com/FullSailGameStudies/bricksbreaker-chris-MathiasVer2055.git)
+* [Brick Breaker Game](https://github.com/MathiasVer2055/Matthew-Morris-Portfoli-bricksbreaker.git)
 
 * [Calculator Project](https://github.com/MathiasVer2055/Matthew-Morris-calculator-project-repo)
 
