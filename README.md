@@ -24,7 +24,7 @@ The following projects showcase my ability to move from high-level engine develo
 
 * **Description:** Engineered a complete, optimized 2D arcade title from scratch. This project serves as a deep demonstration of capability in **modern rendering pipelines**, memory management, and implementing high-efficiency graphics programming principles.
 
-* **Project Link:** [Code Repository](https://github.com/FSProjectPortfolioV/dev5-team-project-2506-team-blue-2506.git)
+* **Project Link:** [Code Repository](https://github.com/Deca-sin/Matthew-Morris-Portfolio-vulkan-arcade-game.git)
 
 ### 3D Shooter Development (Unreal Engine & Unity)
 
