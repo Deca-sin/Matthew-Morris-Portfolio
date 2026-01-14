@@ -36,13 +36,11 @@ The following projects showcase my ability to move from high-level engine develo
 
   * [Unreal Engine Project (Playable Build)](https://devdynasty2508.itch.io/quantum-gladiator)
 
-  * [Unity Project (Code Repository)](https://github.com/Volcagnome/Portfolio2.git)
-
 ## 💻 Additional Coding Projects (C++)
 
 These smaller projects demonstrate fundamental computer science concepts and C++ programming practices:
 
-* [Conway's Game of Life](https://github.com/FullSailGameStudies/conway-s-game-of-life-03-24-Deca-sin.git)
+* [Conway's Game of Life](https://github.com/Deca-sin/Matthew-Morris-Portfolio-bricksbreaker.git)
 
 * [Brick Breaker Game](https://github.com/MathiasVer2055/Matthew-Morris-Portfoli-bricksbreaker.git)
 
